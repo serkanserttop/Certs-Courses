@@ -15,7 +15,7 @@ My personal repository for certificates, trainings, and courses.
 
 ## Apache Cassandra
 ### Datastax Training
-[Java Development with Apache Cassandra] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/database/cassandra/Datastax-Java-Development-with-Apache-Cassandra-Certificate-33975.pdf)
+* [Java Development with Apache Cassandra] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/database/cassandra/Datastax-Java-Development-with-Apache-Cassandra-Certificate-33975.pdf)
 
 ## SAP
 * [An Introduction to SAP HANA] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/opensap/an_introduction_to_sap_hana_by_dr__vishal_sikka_certificate_full_103710.pdf)
@@ -50,44 +50,46 @@ TBA
 ## Computer Science
 
 ### Artificial Intelligence - Machine Learning
-[Discrete Inference and Learning in Artificial Vision] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/artificialvision-2014.pdf)
-[Convex Optimization] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/edx/CVX101.pdf)
+* [Discrete Inference and Learning in Artificial Vision] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/artificialvision-2014.pdf)
+* [Convex Optimization] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/edx/CVX101.pdf)
 
 ### Algorithms
-[Bioinformatics Algorithms] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/Part 1)] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/bioinformatics-2014.pdf)
+* [Bioinformatics Algorithms] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/Part 1) (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/bioinformatics-2014.pdf)
+
 Following 2 courses taught by MIT Professor Sedgwick were completed but they do not offer a certificate
-[Algorithms, Part I] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/algs4partI)
-[Algorithms, Part II] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/algs4partII)
+
+* [Algorithms, Part I] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/algs4partI)
+* [Algorithms, Part II] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/algs4partII)
 
 ### Android
-[Programming Mobile Applications for Android Handheld Systems] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/android-2014.pdf)
+* [Programming Mobile Applications for Android Handheld Systems] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/android-2014.pdf)
 
 ### Cuda
-[Heterogeneous Parallel Programming] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/heterogenous-parallel-programming-2014.pdf)
+* [Heterogeneous Parallel Programming] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/heterogenous-parallel-programming-2014.pdf)
 
 ### HTML5
-[HTML5 Game Development] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/udacity/html5game-certificate.pdf)
+* [HTML5 Game Development] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/udacity/html5game-certificate.pdf)
 
 ### Scala
-[Functional Programming Principles in Scala] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/progfun-2013.pdf)
-[Principles of Reactive Programming] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/reactive-2014.pdf)
+* [Functional Programming Principles in Scala] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/progfun-2013.pdf)
+* [Principles of Reactive Programming] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/reactive-2014.pdf)
 
 ## ECON
-[A Beginner's Guide to Irrational Behavior] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/behavioralecon-2014.pdf)
-[Games without Chance: Combinatorial Game Theory] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/cgt-2014.pdf)
-[Social and Economic Networks: Models and Analysis] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/networksonline-2014.pdf)
-[INFO2040x: Networks, Crowds, and Markets] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/edx/info2040x.pdf)
+* [A Beginner's Guide to Irrational Behavior] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/behavioralecon-2014.pdf)
+* [Games without Chance: Combinatorial Game Theory] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/cgt-2014.pdf)
+* [Social and Economic Networks: Models and Analysis] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/networksonline-2014.pdf)
+* [INFO2040x: Networks, Crowds, and Markets] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/edx/info2040x.pdf)
 
 ## FINANCE
-[Computational Investing, Part I] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/finance/compinvesting1-2013.pdf)
-[Financial Engineering and Risk Management Part II] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/finance/fe2-2014.pdf)
+* [Computational Investing, Part I] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/finance/compinvesting1-2013.pdf)
+* [Financial Engineering and Risk Management Part II] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/finance/fe2-2014.pdf)
 
 ## STATISTICS
-[Mathematical Biostatistics Boot Camp 1] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/biostats-2014.pdf)
-[Mathematical Biostatistics Boot Camp 2] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/biostats2-2014.pdf)
-[Data Analysis and Statistical Inference] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/statistics-2014.pdf)
-[Statistical Reasoning for Public Health: Estimation, Inference, & Interpretation] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/statreasoning-2014.pdf)
+* [Mathematical Biostatistics Boot Camp 1] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/biostats-2014.pdf)
+* [Mathematical Biostatistics Boot Camp 2] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/biostats2-2014.pdf)
+* [Data Analysis and Statistical Inference] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/statistics-2014.pdf)
+* [Statistical Reasoning for Public Health: Estimation, Inference, & Interpretation] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/stat/statreasoning-2014.pdf)
 
 ## Misc
-[Introduction to Computational Arts: Processing] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/misc/compartsprocessing-2014.pdf)
-[Unpredictable? Randomness, Chance and Free Will] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/misc/randomness-2014.pdf)
+* [Introduction to Computational Arts: Processing] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/misc/compartsprocessing-2014.pdf)
+* [Unpredictable? Randomness, Chance and Free Will] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/misc/randomness-2014.pdf)
