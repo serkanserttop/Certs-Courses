@@ -22,23 +22,23 @@ My personal repository for certificates, trainings, and courses.
 * [SAP Business Suite powered by SAP HANA] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/opensap/sap_business_suite_powered_by_sap_hana_certificate_full_103710.pdf)
 
 ## Data Science 
-[Johns Hopkins Data Science Specialization Certificate Track] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
+[Johns Hopkins Data Science Specialization Certificate Track] (https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
 * 1 - [The Data Scientist’s Toolbox] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/datascitoolbox-2014.pdf)
 * 2 - [R Programming] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/rprog-2014.pdf)
 * 3 - [Getting and Cleaning Data] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/getdata-2014.pdf)
 
 Grading is in process for the following 3 courses.
-* 4 - [Exploratory Data] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/exdata)
-* 5 - [Reproducible Research] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/repdata)
-* 6 - [Statistical Inference] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/statinference)
+* 4 - [Exploratory Data] (https://www.coursera.org/course/exdata)
+* 5 - [Reproducible Research] (https://www.coursera.org/course/repdata)
+* 6 - [Statistical Inference] (https://www.coursera.org/course/statinference)
 
 Enrolled for the following courses, sessions starting on June 2nd.
-* 7 - [Regresion Models] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/regmods)
-* 8 - [Practical Machine Learning] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/predmachlearn)
-* 9 - [Developing Data Products] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/devdataprod)
+* 7 - [Regresion Models] (https://www.coursera.org/course/regmods)
+* 8 - [Practical Machine Learning] (https://www.coursera.org/course/predmachlearn)
+* 9 - [Developing Data Products] (https://www.coursera.org/course/devdataprod)
 
 TBA
-* 10 - [Capstone Project] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/jhudatasciencecapstone)
+* 10 - [Capstone Project] (https://www.coursera.org/course/jhudatasciencecapstone)
 
 ## Data Science Other
 * [15.071x: The Analytics Edge] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/edx/Analytics-Edge.pdf)
@@ -58,8 +58,8 @@ TBA
 
 Following 2 courses taught by MIT Professor Sedgwick were completed but they do not offer a certificate
 
-* [Algorithms, Part I] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/algs4partI)
-* [Algorithms, Part II] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/https://www.coursera.org/course/algs4partII)
+* [Algorithms, Part I] (https://www.coursera.org/course/algs4partI)
+* [Algorithms, Part II] (https://www.coursera.org/course/algs4partII)
 
 ### Android
 * [Programming Mobile Applications for Android Handheld Systems] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/android-2014.pdf)
