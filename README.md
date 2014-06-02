@@ -22,7 +22,7 @@ My personal repository for certificates, trainings, and courses.
 * [SAP Business Suite powered by SAP HANA] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/opensap/sap_business_suite_powered_by_sap_hana_certificate_full_103710.pdf)
 
 ## Data Science 
-[Johns Hopkins Data Science Specialization Certificate Track] (https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
+Enrolled at 10 course series [Johns Hopkins Data Science Specialization Certificate Track] (https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage).
 * 1 - [The Data Scientist’s Toolbox] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/datascitoolbox-2014.pdf)
 * 2 - [R Programming] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/rprog-2014.pdf)
 * 3 - [Getting and Cleaning Data] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/getdata-2014.pdf)
@@ -54,9 +54,9 @@ TBA
 * [Convex Optimization] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/edx/CVX101.pdf)
 
 ### Algorithms
-* [Bioinformatics Algorithms] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/Part 1) (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/bioinformatics-2014.pdf)
+* [Bioinformatics Algorithms] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/bioinformatics-2014.pdf)
 
-Following 2 courses taught by MIT Professor Sedgwick were completed but they do not offer a certificate
+Following 2 courses taught by MIT Professor Sedgwick were completed but they do not offer a certificate.
 
 * [Algorithms, Part I] (https://www.coursera.org/course/algs4partI)
 * [Algorithms, Part II] (https://www.coursera.org/course/algs4partII)
@@ -74,7 +74,7 @@ Following 2 courses taught by MIT Professor Sedgwick were completed but they do 
 * [Functional Programming Principles in Scala] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/progfun-2013.pdf)
 * [Principles of Reactive Programming] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/cs/reactive-2014.pdf)
 
-## ECON
+## ECONOMICS
 * [A Beginner's Guide to Irrational Behavior] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/behavioralecon-2014.pdf)
 * [Games without Chance: Combinatorial Game Theory] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/cgt-2014.pdf)
 * [Social and Economic Networks: Models and Analysis] (https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/econ/networksonline-2014.pdf)
