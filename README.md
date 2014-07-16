@@ -31,12 +31,9 @@ Enrolled at 10 course series [Johns Hopkins Data Science Specialization Certific
 * 4 - [Exploratory Data](https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/exdata-2014.pdf)
 * 5 - [Reproducible Research](https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/repdata-2014.pdf)
 * 6 - [Statistical Inference](https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/statinference-2014.pdf)
-
-Enrolled for the following courses, sessions started on June 2nd.
-
-* 7 - [Regresion Models](https://www.coursera.org/course/regmods)
-* 8 - [Practical Machine Learning](https://www.coursera.org/course/predmachlearn)
-* 9 - [Developing Data Products](https://www.coursera.org/course/devdataprod)
+* 7 - [Regresion Models](https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/regmods-2014.pdf)
+* 8 - [Practical Machine Learning](https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/predmachlearn-2014.pdf)
+* 9 - [Developing Data Products](https://raw.githubusercontent.com/serkanserttop/Certs-Courses/master/coursera/datasci/specialization/devdataprod-2014.pdf)
 
 TBA
 
